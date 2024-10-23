@@ -1,0 +1,5 @@
+- name: Demo Playbook
+  hosts: localhost
+  connection: local
+  tasks:
+    - sample
